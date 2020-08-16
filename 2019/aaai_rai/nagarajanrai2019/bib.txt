@@ -1,0 +1,8 @@
+@InProceedings{nagarajan2019deterministic,
+  author = {Nagarajan, Prabhat and Warnell, Garrett and Stone, Peter},
+  title = {Deterministic Implementations for Reproducibility in Deep Reinforcement Learning},
+  booktitle = {AAAI 2019 Workshop on Reproducible AI},
+  location = {Honolulu, Hawaii},
+  month = {January},
+  year = {2019}
+}
