@@ -1,0 +1,6 @@
+@mastersthesis{mastersthesis,
+  author       = {Prabhat Nagarajan}, 
+  title        = {Nondeterminism as a Reproducibility Challenge for Deep Reinforcement Learning},
+  school       = {The University of Texas at Austin},
+  year         = 2018,
+}
