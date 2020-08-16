@@ -1,0 +1,8 @@
+@InProceedings{iros2020tgtgrasp,
+author = {Fujita, Yasuhiro and Uenishi, Kota and Ummadisingu, Avinash and Nagarajan, Prabhat and Masuda, Shimpei and Castro, Mario Ynocente},
+title = {Distributed Reinforcement Learning of Targeted Grasping with Active Vision for Mobile Manipulators},
+booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS 2020)},
+month = {October},
+year = {2020},
+location = {Las Vegas, NV, USA},
+}
